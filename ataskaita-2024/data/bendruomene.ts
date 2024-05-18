@@ -238,8 +238,8 @@ export const teamPhotos = [
   },
   {
     link: "/img/bendros-nuotraukos/tarptautiniu.jpg",
-    title: "Užsieniečių studentų koordinatoriai",
-    href: "#uzsienieciu-studentu-koordinatoriai",
+    title: "Tarptautinių studentų koordinatoriai",
+    href: "#tarptautiniu-studentu-koordinatoriai",
   },
 ];
 
