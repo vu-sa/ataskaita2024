@@ -1,6 +1,6 @@
 # Institucinio stiprinimo fondas
 
-![ISF](/img/bendros-nuotraukos/ISF.jpg)
+![ISF](../public/img/bendros-nuotraukos/ISF.jpg)
 
 ::: tip 📖 Institucinio stiprinimo fondas...
 Institucinio stiprinimo fondas yra atsakingas už organizacijos narių kompetencijų kėlimą, žmogiškųjų išteklių valdymą. Fondas siekia užtikrinti sąlygas VU SA stiprinti ir nuosekliai kelti kompetencijas organizacijoje.
