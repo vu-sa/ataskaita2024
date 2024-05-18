@@ -1,9 +1,9 @@
 # Ačiū, kad esate kartu
 
 <script setup lang="ts">
-import { teamPhotos, biuras, socai, akademai, atstovai, kom, org, mark, hr, integration, admin, pkp, intl, other, dag } from 'data/bendruomene'
-import TeamAvatarLayout from 'components/TeamAvatarLayout.vue'
-import PhotoGrid from 'components/PhotoGrid.vue'
+import { teamPhotos, biuras, socai, akademai, atstovai, kom, org, mark, hr, integration, admin, pkp, intl, other, dag } from '../data/bendruomene'
+import TeamAvatarLayout from '../components/TeamAvatarLayout.vue'
+import PhotoGrid from '../components/PhotoGrid.vue'
 </script>
 
 ![VU SA](public/img/bendros-nuotraukos/VU-SA.jpg)
