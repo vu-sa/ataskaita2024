@@ -23,7 +23,7 @@ Institucinis stiprinimas – visuma procesų, orientuotų į poreikiu grįstą o
 - Tęsė programą „VU SA Reflektuoja“ ir skatino organizaciją reflektuoti ir savireflektuoti. Nuolatinis reflektavimas leidžia nuosekliai įsivertinti stipriąsias ir silpnąsias organizacijos narių, veikų ir procesų puses, taip pat skatina efektyvumą.
 - Subūrė darbo grupę įtraukiant alumnų bendruomenę su tikslu į organizacijos veiklas aktyviau įtraukti organizacijoje veikusius alumnus. Darbo grupė tęs savo veiklą iki liepos 1 d.
 - Atnaujino VU SA lektorių duombazę. Duombazė padeda organizacijos nariams pažinti daugiau organizacijos narių, kurie gali padėti kelti kompetencijas, pasidalinti savo patirtimis.
-- Įvykdė bendruomenės tyrimą. Daugiau apie tyrimą galima rasti [šioje nuorodoje.](/stipri-organizacija//tyrimai#vu-sa-integracijos-tyrimas)
+- Įvykdė bendruomenės tyrimą. Daugiau apie tyrimą galima rasti [šioje nuorodoje.](../stipri-organizacija/tyrimai.md#vu-sa-integracijos-tyrimas)
 - Peržiūrėjo ir koordinavo patirties perdavimo procesą. Suorganizuoto atskiro susitikimo metu buvo pristatytas patirties perdavimo procesas ir jo etapai, suteiktos naudingos nuorodos.
 - Organizavo iniciatyvas skatinant viešinti atstovavimo veiklą tarp organizacijos narių. Iniciatyvų tikslas yra ne tik supažindinti su atstovavimo procesu, bet ir paskatinti organizacijos narius tapti studentų atstovais.
 
