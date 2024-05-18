@@ -6,7 +6,7 @@ import TeamAvatarLayout from '../components/TeamAvatarLayout.vue'
 import PhotoGrid from '../components/PhotoGrid.vue'
 </script>
 
-![VU SA](/img/bendros-nuotraukos/VU-SA.jpg)
+![VU SA](../public/img/bendros-nuotraukos/VU-SA.jpg)
 
 ## Sritys
 
@@ -14,31 +14,31 @@ import PhotoGrid from '../components/PhotoGrid.vue'
 
 ## Centrinis biuras
 
-![CB](/img/bendros-nuotraukos/Biuras2.jpg)
+![CB](../public/img/bendros-nuotraukos/Biuras2.jpg)
 
 <TeamAvatarLayout :members="biuras" />
 
 ## Taryba
 
-![Taryba](/img/bendros-nuotraukos/Taryba.jpg)
+![Taryba](../public/img/bendros-nuotraukos/Taryba.jpg)
 
 Daugiau apie Tarybą [skaitykite čia](/vu-sa/taryba.md).
 
 ## Parlamentas
 
-![Parlamentas](/img/bendros-nuotraukos/Parlamentas.jpg)
+![Parlamentas](../public/img/bendros-nuotraukos/Parlamentas.jpg)
 
 Daugiau apie Parlamentą [skaitykite čia](/vu-sa/parlamentas.md).
 
 ## ISF
 
-![ISF](/img/bendros-nuotraukos/ISF.jpg)
+![ISF](../public/img/bendros-nuotraukos/ISF.jpg)
 
 Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 ## Revizijos komisija
 
-![RK](/img/bendros-nuotraukos/Revizija.jpg)
+![RK](../public/img/bendros-nuotraukos/Revizija.jpg)
 
 Daugiau apie Revizijos komisiją [skaitykite čia](/vu-sa/revizijos-komisija.md).
 
@@ -48,67 +48,67 @@ Daugiau apie Revizijos komisiją [skaitykite čia](/vu-sa/revizijos-komisija.md)
 
 ## Socialinio proceso reikalų koordinatoriai
 
-![Socai](/img/bendros-nuotraukos/socai.jpg)
+![Socai](../public/img/bendros-nuotraukos/socai.jpg)
 
 <TeamAvatarLayout :members="socai" />
 
 ## Akademinio proceso reikalų koordinatoriai
 
-![Akademai](/img/bendros-nuotraukos/akademai.jpg)
+![Akademai](../public/img/bendros-nuotraukos/akademai.jpg)
 
 <TeamAvatarLayout :members="akademai" />
 
 ## Atstovų koordinatoriai
 
-![Atstovų koordinatoriai](/img/bendros-nuotraukos/Atstovai.jpg)
+![Atstovų koordinatoriai](../public/img/bendros-nuotraukos/Atstovai.jpg)
 
 <TeamAvatarLayout :members="atstovai" />
 
 ## Komunikacijos koordinatoriai
 
-![Komunikacijos koordinatoriai](/img/bendros-nuotraukos/Komunikacija.jpg)
+![Komunikacijos koordinatoriai](../public/img/bendros-nuotraukos/Komunikacija.jpg)
 
 <TeamAvatarLayout :members="kom" />
 
 ## Marketingo koordinatoriai
 
-![Marketingo koordinatoriai](/img/bendros-nuotraukos/Marketingas-2.jpg)
+![Marketingo koordinatoriai](../public/img/bendros-nuotraukos/Marketingas-2.jpg)
 
 <TeamAvatarLayout :members="mark" />
 
 ## Organizacinės srities koordinatoriai
 
-![Organizacinės srities koordinatoriai](/img/bendros-nuotraukos/Orgai.jpg)
+![Organizacinės srities koordinatoriai](../public/img/bendros-nuotraukos/Orgai.jpg)
 
 <TeamAvatarLayout :members="org" />
 
 ## Žmogiškųjų išteklių koordinatoriai
 
-![HR](/img/bendros-nuotraukos/HR.jpg)
+![HR](../public/img/bendros-nuotraukos/HR.jpg)
 
 <TeamAvatarLayout :members="hr" />
 
 ## Integracijos srities koordinatoriai
 
-![Integracija](/img/bendros-nuotraukos/Integracija.jpg)
+![Integracija](../public/img/bendros-nuotraukos/Integracija.jpg)
 
 <TeamAvatarLayout :members="integration" />
 
 ## Administratoriai
 
-![Administratoriai](/img/bendros-nuotraukos/Administratoriai-2.jpg)
+![Administratoriai](../public/img/bendros-nuotraukos/Administratoriai-2.jpg)
 
 <TeamAvatarLayout :members="admin" />
 
 ## PKP
 
-![PKP](/img/bendros-nuotraukos/PKP2.jpg)
+![PKP](../public/img/bendros-nuotraukos/PKP2.jpg)
 
 <TeamAvatarLayout :members="pkp" />
 
 ## Tarptautinių studentų koordinatoriai
 
-![Tarptautinių studentų koordinatoriai](/img/bendros-nuotraukos/tarptautiniu.jpg)
+![Tarptautinių studentų koordinatoriai](../public/img/bendros-nuotraukos/tarptautiniu.jpg)
 
 <TeamAvatarLayout :members="intl" />
 
