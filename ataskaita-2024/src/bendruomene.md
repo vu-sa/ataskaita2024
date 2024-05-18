@@ -38,7 +38,7 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 ## Revizijos komisija
 
-![RK](public/img/bendros-nuotraukos/Revizija.jpg)
+![RK](public/img/bendros-nuotraukos/revizija.jpg)
 
 Daugiau apie Revizijos komisiją [skaitykite čia](/vu-sa/revizijos-komisija.md).
 
