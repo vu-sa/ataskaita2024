@@ -39,7 +39,9 @@ Ataskaitiniu laikotarpiu ir toliau tęstas sistemingas darbas žmogiškųjų iš
 - Mokymų organizavimas ir planavimas;
 - Patirties perdavimo procesas.
 - Kompetencijų kėlimo procesai vyko ne tik mokymų, bet ir reguliarių visuotinių susirinkimų, simuliacijų metu;
-- Centriniu mastu organizuoti mokymai:
+
+Centriniu mastu organizuoti mokymai:
+
 - Vasaros mokymai;
 - Kuratorių mokymai;
 - Vadovavimo mokymai koordinatoriams;
