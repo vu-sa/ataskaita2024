@@ -2,7 +2,7 @@
 
 ## START FM
 
-![START FM](/img/pkp-logo/START_FM_logotipas.png)
+![START FM](../public/img/pkp-logo/START_FM_logotipas.png)
 
 _Ataskaitiniu laikotarpiu veiklą koordinavo Loranas Vaitkus._
 
@@ -14,7 +14,7 @@ Ataskaitiniu laikotarpiu buvo rengtos ir transliuotos kultūrinio, šviečiamojo
 
 ## VU Debatų klubas
 
-![Debatų klubas](/img/pkp-logo/Debatu_klubo_logotipas.jpg)
+![Debatų klubas](../public/img/pkp-logo/Debatu_klubo_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu veiklą koordinavo Olena Pankevych._
 
@@ -24,7 +24,7 @@ VUDS managed to host a debating competition this March - Vilnius Cup 2024, which
 
 ## „Studentai - moksleiviams, moksleiviai - studentams“
 
-![SMMS](/img/pkp-logo/SMMS_logotipas.jpg)
+![SMMS](../public/img/pkp-logo/SMMS_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu projekto veiklą nuo 2024-03-20 koordinavo Laurynas Cicėnas._
 
@@ -38,7 +38,7 @@ O įgyti žinių apie universitetą ir studentišką gyvenimą moksleiviams pad�
 
 ## VU Teisės klinika
 
-![Teisės klinika](/img/pkp-logo/Teis%C4%97s_klinikos_logotipas.png)
+![Teisės klinika](../public/img/pkp-logo/Teis%C4%97s_klinikos_logotipas.png)
 
 _Ataskaitiniu laikotarpiu projektą iki 2024-01-01 koordinavo Viktorija Medžiaušaitė, nuo 2024-01-01 Karina Sinkevičiūtė._
 
@@ -53,7 +53,7 @@ Ataskaitiniu laikotarpiu nebuvo vykdytas joks projektas. Pasirašyta paramos sut
 
 ## VU SIF
 
-![VU SIF](/img/pkp-logo/SIF_logotipas.png)
+![VU SIF](../public/img/pkp-logo/SIF_logotipas.png)
 
 _Ataskaitiniu laikotarpiu fondui vadovavo Povilas Petručionis._
 
@@ -63,7 +63,7 @@ Kiekvieną savaitę vykdome susitikimus, kurių metu analizuojame rinkas, siekda
 
 ## VU Karjeros dienos
 
-![KD](/img/pkp-logo/KD_logotipas.png)
+![KD](../public/img/pkp-logo/KD_logotipas.png)
 
 _Ataskaitiniu laikotarpiu projektui vadovavo Livija Trakelytė._
 
@@ -75,7 +75,7 @@ Pagrindinės savaitės metu įvyko 126 Greitieji darbo pokalbiai, kurie metų da
 
 ## Be etikečių
 
-![Be etikečių](/img/pkp-logo/Be_etike%C4%8Di%C5%B3_logotipas.jpg)
+![Be etikečių](../public/img/pkp-logo/Be_etike%C4%8Di%C5%B3_logotipas.jpg)
 
 _Ataskaitiniu laikotarpių veiklą koordinavo Gabija Smailytė._
 
@@ -85,7 +85,7 @@ _Ataskaitiniu laikotarpių veiklą koordinavo Gabija Smailytė._
 
 ## VU Jaunųjų energetikų klubas
 
-![VU JEK](/img/pkp-logo/JEK_logotipas.png)
+![VU JEK](../public/img/pkp-logo/JEK_logotipas.png)
 
 _Ataskaitiniu laikotarpiu veiklą koordinavo Paulius Rimkevičius._
 
@@ -95,7 +95,7 @@ Vilniaus universiteto Jaunųjų energetikų klubas (VU JEK) – VU SA klubas, vi
 
 ## Erasmus Student Network Vilnius University
 
-![ESN](/img/pkp-logo/ESN_logotipas.png)
+![ESN](../public/img/pkp-logo/ESN_logotipas.png)
 
 _Ataskaitiniu laikotarpiu programos veiklą koordinavo Artūras Maciunskas._
 
@@ -105,7 +105,7 @@ ESN Vilnius University – VU SA programa, skatinanti studentų (-čių) mobilum
 
 ## VU Kendo klubas
 
-![Kendo](/img/pkp-logo/Kendo_klubo_logotipas.jpg)
+![Kendo](../public/img/pkp-logo/Kendo_klubo_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu veiklą koordinavo Vytenis Almonaitis._
 
@@ -122,7 +122,7 @@ Klubo užsiėmimuose dalyvauja ne vien studentai, bet ir Vilniaus Universiteto a
 
 ## HEMA
 
-![HEMA](/img/pkp-logo/HEMA_logotipas.jpg)
+![HEMA](../public/img/pkp-logo/HEMA_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubui vadovavo Gintarė Vaičekauskytė._
 
@@ -132,7 +132,7 @@ Hemos klubas dalyvavo įvairiuose turnyruose, šventėse ir mugėse - Daili kaz�
 
 ## The COINS
 
-![The COINS](/img/pkp-logo/The_COINS_logotipas.jpg)
+![The COINS](../public/img/pkp-logo/The_COINS_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu projektą koordinavo Eivinas Zableckas._
 
@@ -142,7 +142,7 @@ The COINS 2024 – 18-oji tarptautinė gyvybės mokslų konferencija, organizuot
 
 ## Jaunųjų žurnalistų draugija
 
-![JŽD](/img/pkp-logo/J%C5%BDD_logotipas.jpg)
+![JŽD](../public/img/pkp-logo/J%C5%BDD_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu draugijai vadovavo Ieva Radzevičiūtė._
 
@@ -160,7 +160,7 @@ Galima teigti, kad šie metai buvo pilni iššūkių, kurie leido tobulėti, kur
 
 ## Karybos klubas
 
-![KK](/img/pkp-logo/KK_klubas_logotipas.jpg)
+![KK](../public/img/pkp-logo/KK_klubas_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubui vadovavo Robertas Ruzgas._
 
@@ -179,7 +179,7 @@ bendruomenę papildė keletas naujų iniciatyvų.
 
 ## Laisvalaikio draugija „Kauliukas“
 
-![LDK](/img/pkp-logo/Kauliukas_logotipas.jpg)
+![LDK](../public/img/pkp-logo/Kauliukas_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu draugijai vadovavo Robert Berlin._
 
@@ -201,7 +201,7 @@ Nuo gruodžio 2 dienos vyko 5 Memų triatlonai ir 12 Žaidimų vakarų
 
 ## Ukrainian youth group in Lithuania
 
-![UYGL](/img/pkp-logo/UYGL_logotipas.jpg)
+![UYGL](../public/img/pkp-logo/UYGL_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubui vadovavo Anna Humenna._
 
@@ -211,7 +211,7 @@ Ukrainian Youth Group in Lithuania and its members are proud of organising event
 
 ## SPEAK
 
-![SPEAK](/img/pkp-logo/SPEAK_logotipas.jpg)
+![SPEAK](../public/img/pkp-logo/SPEAK_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubui vadovavo Sofia Vyakhirieva._
 
@@ -221,7 +221,7 @@ SPEAK is a social initiative that connects foreigners and locals through a langu
 
 ## Klubas „Artì“
 
-![ARTI](/img/pkp-logo/ARTI_logotipas.jpg)
+![ARTI](../public/img/pkp-logo/ARTI_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubui vadovavo Austėja Bačiulytė._
 
@@ -229,7 +229,7 @@ Artì – tai dailės ir rankdarbių klubas jungiantis meniškus Vilniaus unive
 
 ## Studentų mokslinė draugija „(Un)discovered Asia“
 
-![ASIA](/img/pkp-logo/Asia_logotipas.jpg)
+![ASIA](../public/img/pkp-logo/Asia_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubui vadovavo Vesta Šiaudvytytė._
 
@@ -237,7 +237,7 @@ Studentų mokslinė draugija „(Un)discovered Asia“ oficialiai įsikūrė dar
 
 ## Studentų pilietinio pasipriešinimo komitetas
 
-![SPPK](/img/pkp-logo/SPPK_logotipas.jpg)
+![SPPK](../public/img/pkp-logo/SPPK_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubui vadovavo Gytis Oškelis._
 
@@ -254,7 +254,7 @@ Bendradarbiaujant su kitomis NVO ir pilietinio pasipriešinimo ekspertais, SPPK 
 
 ## Labdaros ir paramos fondas „Ateičiai"
 
-![ATEIČIAI](/img/pkp-logo/Atributikos_loogotipas.jpg)
+![ATEIČIAI](../public/img/pkp-logo/Atributikos_loogotipas.png)
 
 _Ataskaitiniu laikotarpiu fondui vadovavo Edvardas Tamutis._
 
